@@ -1,0 +1,38 @@
+#img1 {
+   opacity: 7.5;
+
+}
+#one
+{
+    border: royalblue;
+}
+body {
+    background-color: lightgray;
+}
+#name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 175%;
+}
+#one{
+
+    border: 3px slateblue dashed;
+}
+.blink{
+    animation: blink 0.7s infinite;
+    color: green;
+}
+@keyframes blink{
+    0%{ color: #000;}
+    49%{ color: #000;}
+    60%{ color: transparent;}
+    99%{ color: transparent;}
+    100% { color: #000;}
+}
+#list {
+    align-items: center;
+    width: fit-content
+    height: 70px;
+    background:yellowgreen;
+    transition: 3s;
+
+  }
