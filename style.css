@@ -42,7 +42,7 @@ body {
 #list {
     align-items: center;
     width: fit-content
-    height: 70px;
+    height: fit-content;
     background:yellowgreen;
     transition: 3s;
 
