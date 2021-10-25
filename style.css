@@ -27,12 +27,3 @@ body {
     60%{ color: transparent;}
     99%{ color: transparent;}
     100% { color: #000;}
-}
-#list {
-    align-items: center;
-    width: fit-content
-    height: 70px;
-    background:yellowgreen;
-    transition: 3s;
-
-  }
