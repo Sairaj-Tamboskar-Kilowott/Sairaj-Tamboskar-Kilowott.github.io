@@ -1,9 +1,16 @@
 #img1 {
+    
    opacity: 7.5;
+   width: 200px;
+   height: 200px;
    transition-property: width;
-  transition-duration: 2s;
-  transition-timing-function: linear;
-  transition-delay: 1s;
+   transition-duration: 2s;
+   transition-timing-function: ;
+   transition-delay: 0.5s;
+ }
+ 
+ #img1:hover {
+   width: 1300px;
 
 }
 #one
