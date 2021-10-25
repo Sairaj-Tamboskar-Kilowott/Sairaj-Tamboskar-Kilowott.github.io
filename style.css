@@ -41,9 +41,9 @@ body {
 }
 #list {
     align-items: center;
-    width: fit-content
+    width: fit-content;
     height: fit-content;
-    background:yellowgreen;
-    transition: 3s;
+    background: yellowgreen;
+    transition: 2s;
 
   }
