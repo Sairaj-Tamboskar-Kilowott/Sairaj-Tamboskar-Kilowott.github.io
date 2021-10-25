@@ -5,7 +5,7 @@
    height: 200px;
    transition-property: width;
    transition-duration: 2s;
-   transition-timing-function: ;
+   
    transition-delay: 0.5s;
  }
  
