@@ -40,7 +40,7 @@ body {
     100% { color: #000;}
 }
 .list {
-    align-items: center;
+   
     width:max-content;
     height: max-content;
     background: yellowgreen;
