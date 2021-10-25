@@ -41,8 +41,8 @@ body {
 }
 .list {
     align-items: center;
-    width:max-content;
-    height: max-content;
+    width:fit-content;
+    height: fit-content;
     background: yellowgreen;
     transition: 2s;
 
