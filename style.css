@@ -1,5 +1,76 @@
-#navibar {
+#navbar {
 background-color: red
 color white ;
 
+}
+
+footer {
+    height: 40px;
+    width: 100%;
+    bottom:0;
+    position: fixed;
+    padding: 10px 36px;
+    background-color:#ef5d57;
+    color: white;
+  }
+
+  #info{
+      font-size: 30px;
+  }
+
+  .wrapper {
+    /* align-items: center; */
+    display: flex;
+    position: relative;
+}
+
+.wrapper .sidebar {
+    position: fixed;
+    height: 100%;
+    width: 200px;
+    background-color: white;
+    padding: 100px 20px;
+    border-right-style: solid;
+    border-color:#ef5d57 ;
+}
+
+.wrapper .main-content {
+    width: 100%;
+    margin: 100px 300px 249px ;
+}
+
+.main-content img {
+    height: 300px;
+    width: 300px;
+    border-radius: 75%;
+}
+body {
+    background-color: rgb(190, 178, 178);
+    overflow: hidden;
+}
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#skills{
+
+    font-size: 40px;
+}
+
+.wrapper .main-content-tutlinks{
+
+    width: 100%;
+    margin: 100px 300px 320px;
+
+}
+
+.ulist{
+    padding-left: 50px;
+}
+
+#interest{
+
+    font-size: 30px
 }
